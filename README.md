@@ -1,5 +1,7 @@
 # Checking collaboration
 
+![](https://iti.gov.eg/assets/images/ColoredLogo.svg)
+
 1. Clone the repo
 2. Make a branch
 3. Switch to the new branch
