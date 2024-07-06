@@ -9,4 +9,4 @@
 7. git push
 8. switch to the main branch
 9. git merge new-branch main
-10. git push
+10. git
